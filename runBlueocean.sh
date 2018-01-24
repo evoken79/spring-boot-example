@@ -1,0 +1,1 @@
+docker run --name blueocean -p 8080:8080 jenkinsci/blueocean
